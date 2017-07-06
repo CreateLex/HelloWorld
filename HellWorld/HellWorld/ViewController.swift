@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         FBSDKAppEvents.activateApp()
         
-        print("Hello")
+        print("Hello...")
         // Do any additional setup after loading the view, typically from a nib.
     }
 

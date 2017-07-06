@@ -1,0 +1,6 @@
+framework module Pods_HellWorld {
+  umbrella header "Pods-HellWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}
