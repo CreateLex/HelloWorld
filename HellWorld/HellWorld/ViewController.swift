@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import FBSDKCoreKit
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        FBSDKAppEvents.activateApp()
+        
         print("Hello")
         // Do any additional setup after loading the view, typically from a nib.
     }
