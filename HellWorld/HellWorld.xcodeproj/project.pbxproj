@@ -22,6 +22,7 @@
 		FC3052A71F0DF14200F2A630 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC3052AA1F0DF14200F2A630 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC3052AC1F0DF14200F2A630 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC3052B21F0DF21900F2A630 /* Loop02.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Loop02.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				FC3052A01F0DF14200F2A630 /* AppDelegate.swift */,
 				FC3052A21F0DF14200F2A630 /* ViewController.swift */,
+				FC3052B21F0DF21900F2A630 /* Loop02.m4a */,
 				FC3052A41F0DF14200F2A630 /* Main.storyboard */,
 				FC3052A71F0DF14200F2A630 /* Assets.xcassets */,
 				FC3052A91F0DF14200F2A630 /* LaunchScreen.storyboard */,
